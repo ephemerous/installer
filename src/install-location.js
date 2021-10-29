@@ -12,7 +12,9 @@ const body = n=>
 </style>
 <main>
 	<div>
-		<h1>Select Hosting</h1>
+		<h1>EPHEMEROUS</h1>
+		<h2>A smartphone for your smartphone.</h2>
+		<h3>Select Hosting</h3>
 		<a href='#cloudflare' class='cloudflare'>Cloudflare</a> <span class='split'>or</span> <a href='#hosted' class='hosted'>Prepaid</a>
 	</div>
 </main>
